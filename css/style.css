@@ -121,7 +121,7 @@
     background-color: #515052!important;
    }
    header img.logo {
-    max-width: 150px;
+    max-width: 20%;
     height: auto;
     margin: 10px;
    }
@@ -364,7 +364,6 @@ svg.mini-logo.inverse {
     }
    }
    #about .spread:first-child {
-    padding-left: 0!important;
     overflow: hidden;
     height: 175px;
    }
@@ -403,7 +402,7 @@ svg.mini-logo.inverse {
         margin-top: 0px;
       }
    }
-   #services .row:last-child {
+   #services .container .row:last-child {
     margin-top: -190px;
     padding-left: 5%;
     margin-bottom: 10%;
@@ -413,7 +412,7 @@ svg.mini-logo.inverse {
     min-height: 110px;
     font-style: italic;
    }
-   #portfolio a.portfolio-image {
+   #portfolio a.portfolio-image { 
     position: relative;
     overflow: hidden;
    }
