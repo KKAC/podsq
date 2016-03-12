@@ -371,6 +371,9 @@ svg.mini-logo.inverse {
     padding-right: 0!important;
     margin-bottom: 50px;
    }
+   #services {
+    overflow-x: hidden;
+   }
    #services img {
     max-width: 300px;
     height: auto;
